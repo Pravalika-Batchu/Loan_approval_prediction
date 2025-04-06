@@ -12,7 +12,7 @@ Develop a machine learning model that can predict the approval status of a loan 
 
 ## 📊 Dataset
 
-- Source : (https://thecleverprogrammer.com/2023/05/15/loan-approval-prediction-using-python/)
+- Source : [(https://thecleverprogrammer.com/2023/05/15/loan-approval-prediction-using-python/)]
 - Features include:
   - Gender
   - Married
