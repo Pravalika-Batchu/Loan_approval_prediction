@@ -70,6 +70,3 @@ Develop a machine learning model that can predict the approval status of a loan 
 - *Hands-On ML with Scikit-Learn, Keras & TensorFlow* by Aurélien Géron
 
 ---
-
-Feel free to fork or contribute to improve the project!
-
