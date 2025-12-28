@@ -11,8 +11,6 @@ Manual loan approval processes are time-consuming, subjective, and prone to huma
 Develop a machine learning model that can predict the approval status of a loan based on applicant details such as income, credit history, loan amount, and more.
 
 ## 📊 Dataset
-
-- Source : [thecleverprogrammer](https://thecleverprogrammer.com/2023/05/15/loan-approval-prediction-using-python/)
 - Features include:
   - Gender
   - Married
